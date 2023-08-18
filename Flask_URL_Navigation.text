@@ -1,0 +1,8 @@
+In URL Navigations we are execute in Flask
+then we are using Static URL files inside " hyper links "
+        "url_for('static',filename='(use css/images)')"
+        Ex : url_for('static',filename='css/cssfilename')
+             url_for('static',filename='images/imagename')
+
+Navigation to urls We can use " ancor tag "
+    Ex:url_for('functionname')

@@ -1,0 +1,14 @@
+h1{
+    background-color: crimson;
+    color: aquamarine;
+    align-items: center;
+    text-align: center;
+}
+h2{
+    background-color: cyan;
+    color: moccasin;
+    text-align: center;
+}
+body{
+    background-color: cornsilk;
+}
